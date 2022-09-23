@@ -1,7 +1,8 @@
-# ENTREGA1ARAOZ
+# ENTREGA1 ARAOZ
 Primer entrega Curso Python Coderhouse
+Tutor: Rafael Farfan
 Grupo
-Rafael Farfan
+Yazmin Araoz
 Yesica Quispe
 Nicolas Rebagliati Pereyra
 --------------------------
