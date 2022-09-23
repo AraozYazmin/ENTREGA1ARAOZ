@@ -1,4 +1,4 @@
-# ENTREGA1 ARAOZ
+# ENTREGA1 ARAOZ QUISPE  Rebagliati Pereyra
 Primer entrega Curso Python Coderhouse
 Tutor: Rafael Farfan
 Grupo
